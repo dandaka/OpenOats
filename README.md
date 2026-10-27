@@ -10,16 +10,8 @@ A meeting note-taker that talks back.
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/openoats-film.webp" width="720" alt="OpenOats walkthrough: meeting detection, live transcript, suggestions from your notes, hidden from screen sharing, notes and Ask" />
-</p>
-
-<details>
-<summary>▶ Watch with sound (30s)</summary>
-  
 https://github.com/user-attachments/assets/f4e7441b-a70a-4581-b6d1-3de3eb21abef
 
-</details>
 OpenOats sits next to your call, transcribes both sides of the conversation in real time, and searches your own notes to surface things worth saying — right when you need them.
 
 ---
