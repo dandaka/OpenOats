@@ -31,10 +31,6 @@ If you're looking for a hosted desktop recording API, consider checking out [Rec
 
 ---
 
-<p align="center">
-  <img src="assets/hero.svg" width="720" alt="OpenOats during a call — suggestions drawn from your own notes appear at the top, live transcript below" />
-</p>
-
 ## Features
 
 - **Invisible to the other side** — the app window is hidden from screen sharing by default, so no one knows you're using it
